@@ -1,0 +1,11 @@
+#square{
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    border-radius: 15%;
+    border-bottom-color: aqua;
+    border-top-color: brown;
+    border-left-color: beige;
+    border-right-color: mediumslateblue;
+    position: absolute;
+}
